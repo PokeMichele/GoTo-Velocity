@@ -3,6 +3,9 @@
 
 GoToVelocity is a Velcocity plugin that adds the /goto command, that teleport you from a server to another (previously only feasible with [GoTo System](https://github.com/L3gendYTs/GoTo-System))
 
+## Download
+You can download the plugin from the [Releases](https://github.com/PokeMichele/GoTo-Velocity/releases) or from [PaperMC Hangar](https://hangar.papermc.io/IlSommo/GoTo-Velocity)
+
 ## Configuration
 In the "config.toml" file you can customize the messages. Here is how it appears by default:
 
