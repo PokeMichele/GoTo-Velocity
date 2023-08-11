@@ -1,0 +1,7 @@
+#GoTo Velocity by PokeMichele - Il Sommo
+[messages]
+run-from-player = "You can't run this command from the console!"
+no-permission = "Sorry, you don't have the permission to do that"
+must-specify-server = "You must specify a Server Name"
+server-not-found = "Server not found"
+
