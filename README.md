@@ -1,5 +1,6 @@
 # GoTo Velocity
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Environment-Server](https://img.shields.io/badge/environment-server-orangered?style=flat-square) [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-orange.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
 GoToVelocity is a Velcocity plugin that adds the /goto command, that teleport you from a server to another (previously only feasible with [GoTo System](https://github.com/L3gendYTs/GoTo-System))
 
 ## Configuration
